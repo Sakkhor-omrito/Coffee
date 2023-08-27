@@ -1,0 +1,221 @@
+@media (max-width:575px){
+    /* navbar  part */
+    .navs_kaffe {
+        font-size: 26px;
+    }
+    .navbar-toggler:focus{
+        outline: none;
+        border: none;
+        box-shadow: none;
+    }
+    .navbar-toggler{
+        background: white;
+    }
+    .navbar-toggler-icon {
+        width: 1em;
+        height: 1em;
+    }
+    .Custom_nav {
+        padding: 16px 0;
+    }
+    /* banner part */
+    #banner_part {
+        padding: 140px 0 110px 0;
+    }
+    .banner_item h1 {
+        font-size: 45px;
+        margin-bottom: 40px;
+    }
+    .great_btn a {
+        background: var(--secondary-color);
+        padding: 14px 14px;
+        font-size: 12px;
+    }
+    .great_btn2 a {
+        padding: 14px 14px;
+        font-size: 12px;
+    }
+    .navbar_ul{
+        text-align: center;
+        padding: 30px 0 20px 0;
+
+    }
+    .navbar_ul li a {
+        font-size: 12px;
+    }
+    .btn_table{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .btn_table a {
+        padding: 12px 16px;
+        font-size: 12px;
+    }
+
+    /* orgnanic part */
+    .about_left h5 {
+        font-size: 15px;
+    }
+    .about_left h5 {
+        padding-left: 4px;
+    }
+
+    .about_left h2 {
+        font-size: 29px;
+    }
+    .about_left p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .about_content {
+        margin: 20px 0 0 0px;
+    }
+    .about_right {
+        margin: 60px 0px 0 0px;
+    }
+
+    /* menu part */
+    #menu_part {
+    padding: 0 0 50px 0;
+    }
+    .menu_first {
+        margin-bottom: 40px;
+    }
+    .choose_header h5 {
+        font-size: 15px;
+    }
+    #choose_coffee {
+        padding-top: 50px;
+    }
+    .choose_header h2 {
+        font-size: 29px;
+        margin-bottom: 40px;
+    }
+    .choose_coffe1 {
+      padding: 0;
+    }
+    .coffee_content h6 {
+        font-size: 14px;
+        padding: 0 0 8px 0;
+        line-height: 19px;
+        color: white;
+    }
+    .coffee_content h4 {
+        margin-bottom: 14px;
+    }
+    .price::before {
+        left: 0;
+        top: 0%;
+        width: 67px;
+    }
+    .price {
+        color: var(--secondary-color);
+        text-align: center;
+        font-size: 14px;
+    }
+    .price::before {
+        left: 0;
+        top: 47%;
+        width: 47px;
+    }
+    .coffe_img img {
+        margin-right: 25px;
+    }
+
+    /* women part */
+    #women_part {
+        padding: 50px 0 50px 0;
+    }
+    .wormen_left img {
+        padding-right: 0;
+    }
+    .women_right {
+        margin-top: 50px;
+        margin:50px 0 0 0;
+    }
+    .women_right h6 {
+        font-size: 13px;
+    }
+    .women_right h2 {
+        font-size: 29px;
+    }
+    .women_right p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 23px;
+    }
+    .women_2ph img {
+        margin-right: 20px;
+    }
+    .women_bottom {
+        display: block!important;
+    }
+    .women_2ph{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .woment_content{
+        text-align: center;
+    }
+    .woment_content h3 {
+        font-size: 23px;
+    }
+    .btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn a {
+        padding: 10px 16px;
+        font-size: 13px;
+    }
+
+    /* customer part css */
+    #customer_part {
+        padding: 20px 0 30px 0;
+    }
+    .customer_header h6 {
+        font-size: 13px;
+    }
+    .customer_header h2 {
+        font-size: 29px;
+        margin-bottom: 60px;
+    }
+    .customer1 {
+        padding: 20px 0;
+        margin-bottom: 30px;
+    }
+    .customer_content{
+        padding: 10px 0;
+    }
+    .customer_content p {
+        font-size: 13px;
+    }
+    .custom_icon i {
+        font-size: 13px;
+    }
+    .customer_content h5 {
+        font-size: 19px;
+    }
+    .customer_content span {
+        font-size: 14px;
+    }
+
+    /* premium part */
+    #Premium_Part {
+        padding: 20px 0 30px 0;
+    }
+    .premium1{
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    .number span {
+        font-size: 35px;
+    }
+    .number{
+        padding-top: 10px;
+    }
+    .text_pre h6 {
+        color: rgb(212, 209, 209);
+        font-size: 13px;
+    }
+}
